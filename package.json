@@ -1,29 +1,23 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
-    "version": "5.0.1",
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "title": "Keeper",
+    "name": "Keeper",
+    "version": "0.0.1",
+    "description": "Keeper: Allowing you to be in control of your data",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+      "data",
+      "ai",
+      "privacy",
+      "gdpr"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/grayscale",
+    "homepage": "https://keeper.services",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/rubychilds/keeper/issues",
+        "email": "ruby.childs1@gmail.com"
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Ruby Childs",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale.git"
+        "url": "https://github.com/rubychilds/keeper.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.2.0",

@@ -79,7 +79,7 @@
   #mainNav.navbar-shrink .nav-link.active {
     color: #64a19d;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: None solid #64a19d;
   }
 }
 
@@ -221,10 +221,6 @@
   border: 0;
 }
 
-.contact-section {
-  padding: 5rem 0 0;
-}
-
 .contact-section .card {
   border: 0;
   border-bottom: 0.25rem solid #64a19d;
@@ -243,16 +239,11 @@
   width: 3rem;
 }
 
-.contact-section .social {
-  margin-top: 5rem;
-}
-
 .contact-section .social a {
   text-align: center;
   height: 3rem;
   width: 3rem;
   background: rgba(255, 255, 255, 0.1);
-  border-radius: 100%;
   line-height: 3rem;
   color: rgba(255, 255, 255, 0.3);
 }
@@ -292,5 +283,5 @@ a:focus, a:hover {
 }
 
 footer {
-  padding: 5rem 0;
+  padding: None;
 }
